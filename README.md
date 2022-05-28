@@ -1,2 +1,2 @@
-# Houston
-Practical project
+# Houston - Хьюстон
+## Домашнее задание образовательной площадки Stepik
